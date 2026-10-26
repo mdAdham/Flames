@@ -52,7 +52,7 @@ def sendfunc():
     return redirect("/")
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run()
 
 # n1 = input("Enter Name 1: ")
 # n2 = input("Enter Name 2: ")
